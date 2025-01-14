@@ -3,12 +3,7 @@ import { getFirestore } from 'firebase/firestore';
 import { getAuth } from 'firebase/auth';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyB8WiNWcT0w3MjX3kykNX2pc3nQkDuXEEQ",
-  authDomain: "flytrix-6640f.firebaseapp.com",
-  projectId: "flytrix-6640f",
-  storageBucket: "flytrix-6640f.firebasestorage.app",
-  messagingSenderId: "230947714596",
-  appId: "1:230947714596:web:1fcc7c7d71c2f6d32b4ab1"
+
 };
 
 // Initialize Firebase
